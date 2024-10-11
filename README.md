@@ -1,5 +1,7 @@
 # Data Science Internship Projects - Prodigy Infotech
 
+# Author: Thrisha D
+
 This repository contains data analysis and visualization tasks completed as part of the Data Science Internship at Prodigy Infotech. Each project focuses on a unique aspect of data analysis, including visualization, classification, sentiment analysis, and exploratory data analysis.
 
 ## Requirements
